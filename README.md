@@ -2,7 +2,7 @@
 recursion problem 
 
 Create a Function that takes four parameters and  
-returns the maximum/minimum value from a 2d list using recursion using python.
+return the maximum/minimum value from a 2d list using recursion (python)
 
 For Example:
 
